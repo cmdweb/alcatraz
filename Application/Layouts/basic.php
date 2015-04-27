@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>Texto fixo definido no Layout Basic (public/layouts/basic.php)</h1>
+<h1>Alcatraz Framework</h1>
 
 
 <?php echo \Alcatraz\Kernel\Layout::getContent(); ?>
