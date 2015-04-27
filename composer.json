@@ -1,0 +1,24 @@
+{
+  "name": "alcatraz/alcatraz",
+  "description": "The Alcatraz Framework.",
+  "authors": [
+    {
+      "name": "Gabriel Malaquias",
+      "email": "g@gmalaquias.com"
+    }
+  ],
+  "keywords": ["framework", "alcatraz", "mvc"],
+  "license": "MIT",
+  "type": "project",
+    "autoload": {
+        "psr-0": {
+            "Controllers\\" : "Application",
+            "Areas\\": "Application",
+            "Models" : "Application"
+        }
+    },
+    "require": {
+      "alcatraz/kernel" : "1.0.0",
+      "alcatraz/owl": "1.0.1"
+    }
+}
