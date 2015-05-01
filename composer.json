@@ -14,11 +14,12 @@
         "psr-0": {
             "Controllers\\" : "Application",
             "Areas\\": "Application",
-            "Models" : "Application"
+            "Models" : "Application",
+            "Entities" : "Application"
         }
     },
     "require": {
       "alcatraz/kernel" : "1.0.0",
-      "alcatraz/owl": "1.0.1"
+      "alcatraz/owl": "1.0.0"
     }
 }
