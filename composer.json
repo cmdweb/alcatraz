@@ -19,7 +19,6 @@
         }
     },
     "require": {
-      "alcatraz/kernel" : "1.0.0",
-      "alcatraz/owl": "1.0.0"
+      "alcatraz/kernel" : "1.0.0"
     }
 }
