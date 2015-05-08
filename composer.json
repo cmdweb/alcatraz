@@ -14,8 +14,8 @@
         "psr-0": {
             "Controllers\\" : "Application",
             "Areas\\": "Application",
-            "Models" : "Application",
-            "Entities" : "Application"
+            "Models\\" : "Application",
+            "Entities\\" : "Application"
         }
     },
     "require": {
